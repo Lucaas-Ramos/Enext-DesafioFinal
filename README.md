@@ -1,4 +1,4 @@
-# Avaliação Final ENEXT - Programa de Capacitação VTEX+
+# Avaliação Final ENEXT - Programa de Capacitação VTEX
 
 **CONTEXTO**
 
