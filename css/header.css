@@ -51,7 +51,7 @@ height: 8vh;
 }
 
 main{
-    background-image: url('https://github.com/Lucaas-Ramos/Enext-DesafioFinal/blob/gh-pages/assets/fundo.jpg') no-repeat center center;
+    background-image: url("../assets/fundo.jpg"') no-repeat center center;
     background-size: cover;
     height: 110vh;
     
