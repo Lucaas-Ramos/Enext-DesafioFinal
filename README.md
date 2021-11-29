@@ -23,7 +23,7 @@ e) Header e footer
 
 - Utilize as orientações de CRO de Deign e Layout. Estilize sempre que possível
 
-<br/>
+
 
 **CRITÉRIO DE AVALIAÇÃO**
 
