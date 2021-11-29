@@ -6,6 +6,7 @@
 
 Ao longo do período de capacitação aprendemos diversos conteúdos relacionados a desenvolvimento front-end, especialmente no semento de e-commerce. O objetivo desse desafio é aprender, colocando a "mão na massa", isto é, desenvolver conforme todo o aprendizado.
 
+<br/>
 
 **DESAFIO TECH**
 
@@ -23,13 +24,15 @@ d) Vitrine
 
 e) Header e footer
 
+<br/>
 
 **DICAS**
 
 <br/>
 
-- Utilize as orientações de CRO de Deign e Layout. Estilize sempre que possível
+- Utilize as orientações de CRO de Deign e Layout. Estilize sempre que possível.
 
+<br/>
 
 **CRITÉRIO DE AVALIAÇÃO**
 
