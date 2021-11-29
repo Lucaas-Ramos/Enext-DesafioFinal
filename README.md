@@ -11,10 +11,15 @@ Ao longo do período de capacitação aprendemos diversos conteúdos relacionado
 <br/>
 
 O objetivo é concluir uma página contemplando os requisitos abaixo:
+
 a) Galeria de fotos
+
 b) Informação de produtos
+
 c) Seletor de SKU
+
 d) Vitrine
+
 e) Header e footer
 
 **DICAS**
